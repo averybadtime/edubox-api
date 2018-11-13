@@ -1,0 +1,23 @@
+{
+  "name": "edubox-api",
+  "version": "1.0.0",
+  "description": "Edubox API for Sollers.co",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/averybadtime/edubox-api.git"
+  },
+  "author": "Jean Carlos Ospino González <devjc23@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/averybadtime/edubox-api/issues"
+  },
+  "homepage": "https://github.com/averybadtime/edubox-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
